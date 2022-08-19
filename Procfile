@@ -1,3 +1,3 @@
-worker: python main.py
-worker: python client.py
-worker: python client.py
+worker1: python main.py
+worker2: python client.py
+worker3: python client.py
