@@ -1,3 +1,2 @@
 tk==0.1.0
 pyttsx3==2.90
-python3-tk==3.10
