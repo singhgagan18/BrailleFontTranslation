@@ -1,4 +1,4 @@
-tkinter==8.6
+tkinter==8.6.8
 gunicorn==19.9.0
 pyttsx3==2.90
 regex==2021.11.10
