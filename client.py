@@ -1,6 +1,5 @@
 import socket
 import threading
-from tkinter import *
 import tkinter
 import tkinter.scrolledtext
 from tkinter import simpledialog
